@@ -4,4 +4,4 @@ My creative workshop!
 * * *
 
 
-[Resume](https://djlabuh.github.io/resume/ "Resume")
+1. [Resume](https://djlabuh.github.io/resume/ "Resume")
