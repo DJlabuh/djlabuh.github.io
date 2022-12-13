@@ -10,6 +10,7 @@ My creative workshop!
 05. [goit-markup-hw-05](https://djlabuh.github.io/goit-markup-hw-05/ "goit-markup-hw-05")
 06. [goit-markup-hw-06](https://djlabuh.github.io/goit-markup-hw-06/ "goit-markup-hw-06")
 07. [goit-markup-hw-07](https://djlabuh.github.io/goit-markup-hw-07/ "goit-markup-hw-07")
+08. [goit-markup-hw-08](https://djlabuh.github.io/goit-markup-hw-08/ "goit-markup-hw-08")
 
 _______________________________________________________________
 
